@@ -1,0 +1,3 @@
+# add nicer print function
+# comments thru out
+# better dictionary for current events words - maybe anything on wikipedia
